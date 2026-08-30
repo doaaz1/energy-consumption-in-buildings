@@ -44,4 +44,4 @@ To run these models, you can execute the provided Jupyter Notebooks via Google C
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/doaaz1/energy-consumption-in-buildings.git](https://github.com/doaaz1/energy-consumption-in-buildings.git)
+   git clone [https://github.com/doaaz1/energy-consumption-in-buildings)
